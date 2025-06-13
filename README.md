@@ -8,7 +8,7 @@ This repository contains my learning journey with **TypeScript**, including:
 
 It's intended as a reference for future review and to track my progress over time.
 
----
+
 
 ## 📁 Folder Structure
 <pre markdown="1"> ``` 
@@ -32,7 +32,7 @@ TypeScript/
 - Utility Types
 - And more...
 
----
+
 
 ## 🛠 Projects List
 
@@ -42,7 +42,6 @@ TypeScript/
 | `calculator`       | Simple calculator with type-safe logic     |
 | `form-validation`  | Form validation using custom types         |
 
----
 
 ## 🚀 How to Use
 
