@@ -11,6 +11,7 @@ It's intended as a reference for future review and to track my progress over tim
 
 
 ## 📁 Folder Structure
+<pre>
  ``` 
 TypeScript/
 ├── notes/      # concept explanations
@@ -19,7 +20,7 @@ TypeScript/
 ├── assets/          # Diagrams, images, or learning resources
 └── README.md          # Repo overview and structure
  ``` 
-
+</pre>
 
 ## 📚 Topics Covered
 
