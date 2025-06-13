@@ -1,4 +1,4 @@
-# TypeScript Chat App
+#  Chat App -TypeScript
 
 A real-time chat application built using:
 
@@ -19,12 +19,12 @@ A real-time chat application built using:
 ---
 
 ##  Project Structure
-
+```
 chat-app/
 ├── client/ # Frontend HTML/CSS + TypeScript
 ├── server/ # Node.js + WebSocket backend
 └── README.md # This file
-
+```
 --
 
  Setup & Run the App
