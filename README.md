@@ -11,14 +11,14 @@ It's intended as a reference for future review and to track my progress over tim
 
 
 ## 📁 Folder Structure
-<pre markdown="1"> ``` 
+ ``` 
 TypeScript/
-├── notes/ # Markdown summaries and concept explanations
-├── projects/ # Small TypeScript projects to practice concepts
-├── playgrounds/ # Code snippets and one-off experiments
-├── assets/ # Diagrams, images, or learning resources
-└── README.md # Project overview and structure
- ``` </pre>
+├── notes/      # concept explanations
+├── projects/      # Small TypeScript projects to practice concepts
+├── playgrounds/     # Code snippets and one-off experiments
+├── assets/          # Diagrams, images, or learning resources
+└── README.md          # Repo overview and structure
+ ``` 
 
 
 ## 📚 Topics Covered
