@@ -32,7 +32,7 @@ chat-app/
 ### 1.  Clone or Download
 
 ```bash
-git clone https://github.com/your-username/typescript-chat-app.git
+git clone https://github.com/Selvam-DG/TypeScript/tree/main/Projects/chat-app.git
 cd typescript-chat-app
 ```
 ### 2. Install Backend Dependencies
