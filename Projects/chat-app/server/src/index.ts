@@ -13,10 +13,11 @@ app.use(express.static('../client')); //server client files
 
 wss.on('connection',(ws) =>{
     console.log('Client Connected');
-    ws.on('message', (message) =>{
+    ws.on('message', (data) =>{
         wss.clients.forEach(client =>{
             if(client !== ws && client.readyState ===1){
-                client.send(message.toString());
+                client.send(data.toString());
+                
             }
         });
     });

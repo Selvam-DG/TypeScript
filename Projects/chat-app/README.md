@@ -1,4 +1,4 @@
-#  Chat App -TypeScript
+# TypeScript Chat App
 
 A real-time chat application built using:
 
@@ -19,12 +19,12 @@ A real-time chat application built using:
 ---
 
 ##  Project Structure
-```
+
 chat-app/
 ├── client/ # Frontend HTML/CSS + TypeScript
 ├── server/ # Node.js + WebSocket backend
 └── README.md # This file
-```
+
 --
 
  Setup & Run the App
@@ -32,7 +32,7 @@ chat-app/
 ### 1.  Clone or Download
 
 ```bash
-git clone https://github.com/Selvam-DG/TypeScript/tree/main/Projects/chat-app.git
+git clone https://github.com/your-username/typescript-chat-app.git
 cd typescript-chat-app
 ```
 ### 2. Install Backend Dependencies
