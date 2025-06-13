@@ -1,4 +1,4 @@
-# TypeScript Learning Repository
+# TypeScripty
 
 This repository contains my learning journey with **TypeScript**, including:
 
