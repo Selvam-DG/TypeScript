@@ -6,8 +6,7 @@
 
 Optional chaining allows you to safely access **nested properties or methods** without manually checking for `null` or `undefined`.
 
-```
-ts
+```ts
 
 const user = {
   name: "Alice",
@@ -33,7 +32,7 @@ user?.getProfile?.();
 
 ---
 
-## 🔹 Non-Null Assertion (`!`)
+##  Non-Null Assertion (`!`)
 
 The `!` operator tells TypeScript: "I know this value is not null or undefined."
 
@@ -64,7 +63,7 @@ const len = maybeNull!.length; //  Runtime error
       <td>`?` (Optional Chaining) </td> <td> Safe access to nested properties</td>
     </tr>
     <tr>
-      <td> `!` (Non-Null Assertion)</td> <td>Tells TS a value is definitely not null </td>
+      <td> `!` (Non-Null Assertion) </td> <td>Tells TS a value is definitely not null </td>
     </tr>
   </tbody>
 </table>
@@ -77,4 +76,4 @@ const len = maybeNull!.length; //  Runtime error
 - Optional chaining is a safe and clean way to handle potentially missing values.
 - Non-null assertion should be used sparingly—prefer narrowing with checks like `if (x)` or `x !== null`.
 
-> ✅ These operators help keep your code clean and avoid excessive null checks, but they come with responsibility!
+- These operators help keep your code clean and avoid excessive null checks, but they come with responsibility!
