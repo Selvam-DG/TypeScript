@@ -51,16 +51,10 @@ Clone the repo and explore any folder:
 ```bash
 git clone https://github.com/your-username/typescript-learning.git
 cd typescript-learning
-Use VSCode or any TypeScript-aware editor for best experience.
+````
 
-🧠 Why This Repo Exists
-To help me:
 
 Reinforce my TypeScript knowledge
 
 Build a solid reference base
 
-Prepare for interviews and real-world TypeScript projects
-
-📅 Started On
-June 2025
